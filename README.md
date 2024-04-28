@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Felix aka Hr-Bert
-- 🌱 I’m currently learning C++ (basics)
-- 📫 not available
+- 🌱 I’m currently learning C++
 
 
 <!---
