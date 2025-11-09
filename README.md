@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Felix aka Hr-Bert
+- 👋 Hi, I’m Felix 
 - 🌱 I’m currently learning C++
 
 
